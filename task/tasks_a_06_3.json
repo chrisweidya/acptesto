@@ -1,0 +1,228 @@
+{
+    "data": {
+        "block": 3,
+        "acp": [
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Sea turtles often drown when caught in fishing gear, both nets and longlines. Coastal development can destroy important nesting sites, impact coral reefs, and artificial light from houses and other buildings attracts hatchlings away from the ocean. Pollution like plastic bags are often mistaken for food such as jellyfish and ingested, which blocks their intestines and potentially kills them.  In some countries, they are hunted for their meat and shells and their eggs are eaten.  <br>Female red kangaroos are smaller, lighter, and faster than males. They also boast a blue-hued coat, so many Australians call them blue fliers.  <br>Many whales, especially baleen whales, tend to migrate long distances from their cold water feeding grounds to warm-water breeding grounds each year. They travel alone or in groups, or pods, on their annual migrations. Toothed whales often hunt in groups, migrate together and share young-rearing duties. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. <br> To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. <br> Larger male kangaroos are powerfully built. Like many species, male kangaroos sometimes fight over potential mates. They often lean back on their sturdy tail and box each other with their strong hind legs. Kangaroos can also bite and wield sharp claws, which they may do in battle with an enemy like a dingo. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguin eyes work better underwater than they do in the air, giving them superior eyesight to spot prey while hunting, even in cloudy, dark or murky water. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Many whales, especially baleen whales, tend to migrate long distances from their cold water feeding grounds to warm-water breeding grounds each year. They travel alone or in groups, or pods, on their annual migrations. Toothed whales often hunt in groups, migrate together and share young-rearing duties. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. "
+            },
+            
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "An individual fin whale pees about 970 litres per day. <br>Many eagle species lay two eggs. <br>Sea turtles often drown when caught in fishing gear.<br>"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators.<br> Blue whales are pregnant for 10-12 months.<br> A new-born kangaroo is less than an inch long."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The red kangaroo is the world's largest marsupial.<br> Some eagles are built with short wings.<br> The heart of a blue whale is about the size of a VW Beetle car."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The red kangaroo is the world's largest marsupial. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some eagles are built with short wings."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The diet of whales depends on their species."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The southern right whale has the largest testes in the animal kingdom, each pair weighing around a tonne.  <br>Sea turtles often drown when caught in fishing gear, both nets and longlines.  <br>Penguins are carnivores that catch all their food live in the sea."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. <br> Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. <br> A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some turtles lay eggs in the sand and leave them to hatch on their own. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br> Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In some religions, high-soaring eagles are believed to touch the face of God. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell that protects them like a shield, this upper shell is called a carapace. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A new-born kangaroo is less than an inch long and crawls at once into the pouch of its mother. "
+            }
+			
+        ],
+        "xwindow": [      
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguin eyes work better underwater than they do in the air, giving them superior eyesight to spot prey while hunting, even in cloudy, dark or murky water. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            },          
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Sea turtles often drown when caught in fishing gear, both nets and longlines. Coastal development can destroy important nesting sites, impact coral reefs, and artificial light from houses and other buildings attracts hatchlings away from the ocean. Pollution like plastic bags are often mistaken for food such as jellyfish and ingested, which blocks their intestines and potentially kills them.  In some countries, they are hunted for their meat and shells and their eggs are eaten.  <br>Female red kangaroos are smaller, lighter, and faster than males. They also boast a blue-hued coat, so many Australians call them blue fliers.  <br>Many whales, especially baleen whales, tend to migrate long distances from their cold water feeding grounds to warm-water breeding grounds each year. They travel alone or in groups, or pods, on their annual migrations. Toothed whales often hunt in groups, migrate together and share young-rearing duties. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. <br> To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. <br> Larger male kangaroos are powerfully built. Like many species, male kangaroos sometimes fight over potential mates. They often lean back on their sturdy tail and box each other with their strong hind legs. Kangaroos can also bite and wield sharp claws, which they may do in battle with an enemy like a dingo. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. "
+            },           
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Many whales, especially baleen whales, tend to migrate long distances from their cold water feeding grounds to warm-water breeding grounds each year. They travel alone or in groups, or pods, on their annual migrations. Toothed whales often hunt in groups, migrate together and share young-rearing duties. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The red kangaroo is the world's largest marsupial.<br> Some eagles are built with short wings.<br> The heart of a blue whale is about the size of a VW Beetle car."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators.<br> Blue whales are pregnant for 10-12 months.<br> A new-born kangaroo is less than an inch long."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "An individual fin whale pees about 970 litres per day. <br>Many eagle species lay two eggs. <br>Sea turtles often drown when caught in fishing gear.<br>"
+            },
+  
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some eagles are built with short wings."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The red kangaroo is the world's largest marsupial. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The diet of whales depends on their species."
+            },    
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The southern right whale has the largest testes in the animal kingdom, each pair weighing around a tonne.  <br>Sea turtles often drown when caught in fishing gear, both nets and longlines.  <br>Penguins are carnivores that catch all their food live in the sea."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some turtles lay eggs in the sand and leave them to hatch on their own. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br> Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. <br> Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. <br> A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            }, 
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell that protects them like a shield, this upper shell is called a carapace. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In some religions, high-soaring eagles are believed to touch the face of God. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using Control-C + Control-V, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A new-born kangaroo is less than an inch long and crawls at once into the pouch of its mother. "
+            }			
+        ]
+    }
+}

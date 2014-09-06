@@ -1,13 +1,12 @@
-What is bandwidth ? Width of the band of frequencies between the half power points.
+TURTLE
 
-What is barrier potential ? The natural difference of potential that exists across a forward biased pn junction.
+Turtles have a hard shell that protects them like a shield, this upper shell is called a carapace.
 
-What is base biasing ? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor.
+Turtles also have a lower shell called a plastron.
 
-What is battery ? A DC voltage source containing two or more cells that convert chemical energy to electrical energy.
+Some turtles lay eggs in the sand and leave them to hatch on their own. The young turtles make their way to the top of the sand and scramble to the water while trying to avoid predators.
 
-What is binary ? A number system having only two symbols, 0 and 1. A base 2 number system.
+Sea turtles often drown when caught in fishing gear, both nets and longlines. Coastal development can destroy important nesting sites, impact coral reefs, and artificial light from houses and other buildings attracts hatchlings away from the ocean. Pollution like plastic bags are often mistaken for food such as jellyfish and ingested, which blocks their intestines and potentially kills them.  In some countries, they are hunted for their meat and shells and their eggs are eaten.
 
-What is bipolar junction transistor ? (BJT), A three terminal device in which emitter to collector current is controlled by base current.
+In some species of turtle the temperature determines if the egg will develop into a male or female, lower temperatures lead to a male while higher temperatures lead to a female.
 
-What is bistable multivibrator ? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch.

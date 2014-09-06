@@ -1,0 +1,226 @@
+{
+    "data": {
+        "block": 3,
+        "acp": [            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Eagles are different from many other birds of prey. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A female kangaroos pouch may contain two babies."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A new-born kangaroo is less than an inch long. <br>Sea turtles often drown. <br>Penguins have many natural predators .<br>"
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Red kangaroos live in Australian deserts. <br> Blue whales are pregnant for 10-12 months. <br> The diet of whales depends on their species. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators.<br> Some eagles are built with short wings.B<br> A new-born kangaroo is less than an inch long."
+            },    
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            },        
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell that protects them like a shield, this upper shell is called a carapace. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. <br> Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. <br> A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some turtles lay eggs in the sand and leave them to hatch on their own. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br> Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The southern right whale has the largest testes in the animal kingdom, each pair weighing around a tonne. That is the same as 1,000 bags of sugar. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br>A female kangaroos pouch may contain two babies born a year apart. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators depending on their habitat, including leopard seals, sea lions, orcas, skuas, snakes, sharks and foxes. Artificial threats are also a problem for penguins, including oil spills and other pollution, global warming that changes the distribution of food sources and illegal poaching and egg harvesting. Fortunately, many penguins are receptive to captive breeding programs and those successes can help preserve penguin populations. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. <br> Some eagles are built with short wings and long tails enabling them to hunt in the tight confines of a forest, while others are have short tails and broad long wings allowing them to soar high above open plains and water. <br> In some species of turtle the temperature determines if the egg will develop into a male or female, lower temperatures lead to a male while higher temperatures lead to a female. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguin eyes work better underwater than they do in the air, giving them superior eyesight to spot prey while hunting, even in cloudy, dark or murky water. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            }			
+        ],
+        "xwindow": [
+            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Eagles are different from many other birds of prey. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A female kangaroos pouch may contain two babies."
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A new-born kangaroo is less than an inch long. <br>Sea turtles often drown. <br>Penguins have many natural predators .<br>"
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Red kangaroos live in Australian deserts. <br> Blue whales are pregnant for 10-12 months. <br> The diet of whales depends on their species. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators.<br> Some eagles are built with short wings.B<br> A new-born kangaroo is less than an inch long."
+            },    
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            },        
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Turtles have a hard shell that protects them like a shield, this upper shell is called a carapace. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "In Greece, Golden Eagles eat turtles, dropping them from great heights onto rocks to break open their armoured shells. <br> Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. <br> A diet that excludes all meat except that of kangaroo is called SSLqkangatarianism. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Some turtles lay eggs in the sand and leave them to hatch on their own. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br> Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. "
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "The southern right whale has the largest testes in the animal kingdom, each pair weighing around a tonne. That is the same as 1,000 bags of sugar. <br> Many eagle species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. <br>A female kangaroos pouch may contain two babies born a year apart. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguins have many natural predators depending on their habitat, including leopard seals, sea lions, orcas, skuas, snakes, sharks and foxes. Artificial threats are also a problem for penguins, including oil spills and other pollution, global warming that changes the distribution of food sources and illegal poaching and egg harvesting. Fortunately, many penguins are receptive to captive breeding programs and those successes can help preserve penguin populations. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Single text passage"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "To defend their territories and attract a mate, bald eagles put on spectacular aerial displays including death-defying swoops and seemingly suicidal dogfights that involve locking talons with another bird and free-falling in a spiral. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Blue whales are pregnant for 10-12 months. The newborn calf is about 7.5 m long and weighs about 5.5 to 7.3 tonnes, nearly as much as 100 men. <br> Some eagles are built with short wings and long tails enabling them to hunt in the tight confines of a forest, while others are have short tails and broad long wings allowing them to soar high above open plains and water. <br> In some species of turtle the temperature determines if the egg will develop into a male or female, lower temperatures lead to a male while higher temperatures lead to a female. "
+            },
+			{
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Penguin eyes work better underwater than they do in the air, giving them superior eyesight to spot prey while hunting, even in cloudy, dark or murky water. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            },            
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "3 text passages"],
+                "Instruction": "Using AutoComPaste, please copy-paste the following sentence(s) from one of the opened document windows into the TextEditor",
+                "Stimuli": "Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. <br> The heart of a blue whale is about the size of a VW Beetle car and weighs up to 1000 pounds, that is about as much as 1,111 cans of baked beans!The aorta, a major blood vessel for the heart, is big enough for a human child to crawl through. <br> Eagles are different from many other birds of prey mainly by their larger size, more powerful build, and heavier head and beak. Most eagles are larger than any other raptors apart from vultures. "
+            }	            
+        ]
+    }
+}

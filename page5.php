@@ -6,29 +6,28 @@
  * Time: 8:20 PM
  * To change this template use File | Settings | File Templates.
  */
-
-if (!isset($_COOKIE["user"])){
-    $message = "Please use a username";
-    header("Location: index.php?message=".$message);
-    exit;
-}
+include ("./header.php");
+session_start();
 
 ?>
-
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>End of experiment.</title>
 </head>
 <body>
 <div>
-    <p>
-        Here is where you download your file
-    </p>
+	<div class = "spacer"></div>
+    <div class = "splashTitle"End of Experiment</div>
+	<div class = "spacer"></div>
+	<div class = "container" id = "splashContainer">
+	<div class = "instructions"> You have reached the end of the experiment. Please do the post-questionnaire which our staff
+		will give to you soon.<br><br>Thank you for your participation! </div>
+	<div class = "spacer"></div>
 
-
-    <a href="generate2.php" target="_blank">Generate File</a>
+    <a href="generate2.php" target="_blank" class = "instructions">Generate Log</a>
 </div>
-
-
 </body>
+	<div class = "spacer"></div>
+	<div class = "spacer"></div>
+	<div class = "footer"> This is an experiment conducted by Christopher Andy Weidya for CS4249(Phenomena and Theories of HCI) AY14/15 under Zhao Shendong.</div>
 </html>

@@ -6,7 +6,7 @@
  * Time: 4:13 PM
  * To change this template use File | Settings | File Templates.
  */
-
+/**
 if (!isset($_COOKIE["user"])){
     $message = "Please use a username";
     header("Location: index.php?message=".$message);
@@ -18,7 +18,5 @@ if (!isset($_COOKIE["interface"])){
     header("Location: index.php?message=".$message);
     exit;
 }
-
-$user = $_COOKIE["user"];
-
+*/
 include("testenv.html");

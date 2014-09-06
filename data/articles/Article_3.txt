@@ -1,17 +1,11 @@
-What is ampere ? Unit of electrical current. 12 is the number
+PENGUIN
 
-What is amplifier ? A circuit that increases the voltage, current, or power of a signal.
+Penguins are carnivores that catch all their food live in the sea.
 
-What is amplitude ? Magnitude or size of a signal voltage or current.
+Penguins lost the ability to fly millions of years ago, but their powerful flippers and streamlined bodies make them very accomplished swimmers. They are the fastest swimming and deepest diving species of any birds.
 
-What is analog ? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels.
+Penguin eyes work better underwater than they do in the air, giving them superior eyesight to spot prey while hunting, even in cloudy, dark or murky water.
 
-What is anode ? The positive electrode or terminal of a device. The "P" material of a diode.
+Depending on the species, a wild penguin can live 15 to 20 years.
 
-What is antenna, receiving ? A device that converts a radiated electromagnetic wave into an electrical wave.
-
-What is apparent power ? Power attained in an AC circuit as a product of effective voltage and current which reach their peak at different times.
-
-What is armature ? The rotating or moving component of a magnetic circuit.
-
-What is armstrong oscillator ? An oscillator that uses an isolation transformer to achieve positive feedback from output to input.
+Penguins have many natural predators depending on their habitat, including leopard seals, sea lions, orcas, skuas, snakes, sharks and foxes. Artificial threats are also a problem for penguins, including oil spills and other pollution, global warming that changes the distribution of food sources and illegal poaching and egg harvesting. Fortunately, many penguins are receptive to captive breeding programs and those successes can help preserve penguin populations.

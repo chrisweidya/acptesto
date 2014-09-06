@@ -8,6 +8,7 @@
  */
 
 // This automatically sets you to go do the second interface
+/**
 if (!isset($_COOKIE["user"])){
     $message = "Please use a username";
     header("Location: index.php?message=".$message);
@@ -19,33 +20,23 @@ if (!isset($_COOKIE["interface"])){
     header("Location: index.php?message=".$message);
     exit;
 }
-
-if (!isset($_COOKIE["acp"])) {
-
-}
-
-// checks if first interface was already tested (and subsequently, second interface)
-//if (isset($_COOKIE["done1"])){
-//    header("Location: page5.php");
-//    exit;
-//}
+*/
+include ("./header.php");
+session_start();
 
 if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
     $block_num = intval($_COOKIE["block"]);
     $block_num = $block_num+1;
     $max_blocks = intval($_COOKIE["max_blocks"]);
     $numbers = $max_blocks*2;
-    if (($numbers)<=$block_num) {
-
-
+    if (($numbers)<=$block_num) {	
         header("Location: page5.php");
         exit;
     } else {
         setcookie("block", strval($block_num), time()+(3600*3));
     }
 
-
-} else if (isset($_COOKIE["done1"])){
+} else if (isset($_COOKIE["done1"])){	
     header("Location: page5.php");
     exit;
 } else {
@@ -56,3 +47,4 @@ if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
 
 
 header("Location: page3.php");
+?>
